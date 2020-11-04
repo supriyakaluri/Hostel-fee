@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kaluri Residency</string>
+
+    <string-array name="select">
+        <item>Cash</item>
+        <item>GPay</item>
+        <item>PhonePe</item>
+        <item>Net Banking</item>
+    </string-array>
+</resources>
